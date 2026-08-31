@@ -1,0 +1,8 @@
+torch==2.7.1
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==2.2.6
+joblib==1.5.3
+matplotlib==3.10.9
+onnx==1.22.0
+onnxruntime==1.23.2
